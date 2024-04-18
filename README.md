@@ -6,5 +6,6 @@ Case 1: [classification model to predict the profile of customers who buy bicycl
 
 Case 2: Classification model to predict the status of a hotel reservation
 
+This repository is based on:
 
-[Storm Data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2) [47Mb]
+https://www.coursera.org/projects/curso-completo-deep-learning
